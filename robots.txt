@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drsoniasebastiao.co.uk/sitemap.xml
